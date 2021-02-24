@@ -21,5 +21,11 @@
     "project": "Home",
     "completed": false,
     "dueDate": "2020-12-12"
+  },
+  {
+    "name": "Call Ted",
+    "project": "Home",
+    "completed": false,
+    "dueDate": "2020-12-12"
   }
 ]
